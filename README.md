@@ -13,29 +13,28 @@ In this assignment, you will stand up a basic honeypot and demonstrate its effec
 
 ## Milestone 0: To the Cloud!
 
-To complete this assignment, you'll need access to a cloud hosting provider to provision the VMs.
-- [x] GIF Walkthrough: <img src='Milestone-1.gif' title='Milestone 1' width='' alt='' />
+- [x] To complete this assignment, you'll need access to a cloud hosting provider to provision the VMs: <img src='Milestone-1.gif' title='Milestone 1' width='' alt='' />
 
 
 ## Milestone 1: Create MHN Admin VM
 
-Start by creating the MHN Admin VM via your cloud provider.
+- [x] Start by creating the MHN Admin VM via your cloud provider: <img src='Milestone-2.gif' title='Milestone 2' width='' alt='' />
 
 ## Milestone 2: Install the MHN Admin Application
 
-After having established SSH access the MHN Admin VM, the following instructions can be run on the remote VM to install the application.
+- [ ] After having established SSH access the MHN Admin VM, the following instructions can be run on the remote VM to install the application:
 
 ## Milestone 3: Create a MHN Honeypot VM
 
-MHN supports multiple honeypots, each of which has a slightly different purpose you can read about. To start, we'll deploy Dionaea over HTTP, a honeypot used to trap malware samples.
+- [ ] MHN supports multiple honeypots, each of which has a slightly different purpose you can read about. To start, we'll deploy Dionaea over HTTP, a honeypot used to trap malware samples:
 
 ## Milestone 4: Install the Honeypot Application
 
-After having established SSH access the new honeypot VM, we need to install the honeypot application into the VM and wire it to connect back to the admin server. 
+- [ ] After having established SSH access the new honeypot VM, we need to install the honeypot application into the VM and wire it to connect back to the admin server:
 
 ## Milestone 5: Attack!
 
-Now for the fun part: let's attack the honeypot to make sure it's all working.
+- [ ] Now for the fun part: let's attack the honeypot to make sure it's all working:
 
 ## Notes
 
