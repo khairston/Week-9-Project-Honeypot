@@ -14,17 +14,17 @@ In this assignment, you will stand up a basic honeypot and demonstrate its effec
 ## Milestone 0: To the Cloud!
 
 - [x] To complete this assignment, you'll need access to a cloud hosting provider to provision the VMs: 
-
+<img src='Milestone-0.gif' title='Milestone 0' width='' alt='' />
 
 ## Milestone 1: Create MHN Admin VM
 
 - [x] Start by creating the MHN Admin VM via your cloud provider: 
-
+<img src='Milestone-1.gif' title='Milestone 1' width='' alt='' />
 
 ## Milestone 2: Install the MHN Admin Application
 
 - [x] After having established SSH access the MHN Admin VM, the following instructions can be run on the remote VM to install the application: 
-
+<img src='Milestone-2.gif' title='Milestone 2' width='' alt='' />
 
 ## Milestone 3: Create a MHN Honeypot VM
 
