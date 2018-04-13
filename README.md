@@ -22,7 +22,8 @@ In this assignment, you will stand up a basic honeypot and demonstrate its effec
 
 ## Milestone 2: Install the MHN Admin Application
 
-- [x] After having established SSH access the MHN Admin VM, the following instructions can be run on the remote VM to install the application: <img src='Milestone-2.gif' title='Milestone 2' width='' alt='' />
+- [x] After having established SSH access the MHN Admin VM, the following instructions can be run on the remote VM to install the application: 
+<img src='Milestone-2.gif' title='Milestone 2' width='' alt='' />
 
 ## Milestone 3: Create a MHN Honeypot VM
 
