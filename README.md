@@ -14,6 +14,8 @@ In this assignment, you will stand up a basic honeypot and demonstrate its effec
 ## Milestone 0: To the Cloud!
 
 To complete this assignment, you'll need access to a cloud hosting provider to provision the VMs.
+- [x] GIF Walkthrough: <img src='Milestone-1.gif' title='Milestone 1' width='' alt='' />
+
 
 ## Milestone 1: Create MHN Admin VM
 
