@@ -29,6 +29,7 @@ In this assignment, you will stand up a basic honeypot and demonstrate its effec
 ## Milestone 3: Create a MHN Honeypot VM
 
 - [ ] MHN supports multiple honeypots, each of which has a slightly different purpose you can read about. To start, we'll deploy Dionaea over HTTP, a honeypot used to trap malware samples:
+<img src='Milestone-3.gif' title='Milestone 3' width='' alt='' />
 
 ## Milestone 4: Install the Honeypot Application
 
