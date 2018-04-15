@@ -10,6 +10,39 @@ In this assignment, you will stand up a basic honeypot and demonstrate its effec
         A network security feature such as an IDS configured to detect and log such attacks
     Illustration of at least one attack against the honeypot that can be detected or logged in a way that captures information about the attack or the attacker
 
+## Honeypots deployed:
+- Honeypot-1: dionaea
+- Honeypot-2: snort
+## Data Collected:
+Number of attacks: as of 3:27PM on 04/15/2018, 71
+Number of malware samples: 0
+
+Top 5 Attacker IPs:
+
+    191.101.167.37 (7 attacks)
+    185.222.209.113 (5 attacks)
+    5.188.9.25 (4 attacks)
+    191.101.167.86 (4 attacks)
+    123.201.150.217 (4 attacks)
+    
+    
+Top 5 Attacked ports:
+
+    3389 (7 times)
+    445 (7 times)
+    8545 (4 times)
+    2000 (2 times)
+    80 (2 times)
+
+
+Top 5 Attacks Signatures:
+
+    ET DROP Dshield Block Listed Source group 1 (4 times)
+    ET CINS Active Threat Intelligence Poor Reputation IP TCP group 4 (2 times)
+    ET CINS Active Threat Intelligence Poor Reputation IP TCP group 71 (1 times)
+    ET CINS Active Threat Intelligence Poor Reputation IP TCP group 65 (1 times)
+    ET CINS Active Threat Intelligence Poor Reputation IP TCP group 62 (1 times)
+
 
 ## Milestone 0: To the Cloud!
 
