@@ -28,12 +28,13 @@ In this assignment, you will stand up a basic honeypot and demonstrate its effec
 
 ## Milestone 3: Create a MHN Honeypot VM
 
-- [ ] MHN supports multiple honeypots, each of which has a slightly different purpose you can read about. To start, we'll deploy Dionaea over HTTP, a honeypot used to trap malware samples:
+- [x] MHN supports multiple honeypots, each of which has a slightly different purpose you can read about. To start, we'll deploy Dionaea over HTTP, a honeypot used to trap malware samples:
 <img src='Milestone-3.gif' title='Milestone 3' width='' alt='' />
 
 ## Milestone 4: Install the Honeypot Application
 
-- [ ] After having established SSH access the new honeypot VM, we need to install the honeypot application into the VM and wire it to connect back to the admin server:
+- [x] After having established SSH access the new honeypot VM, we need to install the honeypot application into the VM and wire it to connect back to the admin server:
+<img src='Milestone-4.gif' title='Milestone 4' width='' alt='' />
 
 ## Milestone 5: Attack!
 
