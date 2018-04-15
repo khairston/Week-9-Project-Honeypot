@@ -38,8 +38,12 @@ In this assignment, you will stand up a basic honeypot and demonstrate its effec
 
 ## Milestone 5: Attack!
 
-- [ ] Now for the fun part: let's attack the honeypot to make sure it's all working:
+- [x] Now for the fun part: let's attack the honeypot to make sure it's all working:
+<img src='Milestone-5.gif' title='Milestone 5' width='' alt='' />
+
 
 ## Notes
 
 Describe any challenges encountered while doing the work
+
+- Because I had difficulties executing the attacks with nmap, I had to reinstall the mhn admin and honeypot application.
