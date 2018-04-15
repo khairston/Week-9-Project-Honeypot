@@ -14,7 +14,8 @@ In this assignment, you will stand up a basic honeypot and demonstrate its effec
 - Honeypot-1: dionaea
 - Honeypot-2: snort
 ## Data Collected:
-Number of attacks: as of 3:27PM on 04/15/2018, 71
+Number of attacks: 71
+
 Number of malware samples: 0
 
 Top 5 Attacker IPs:
